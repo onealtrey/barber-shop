@@ -1,0 +1,24 @@
+/* Colors I had in mind
+https://coolors.co/8f250c-9d8ca1-1e2019-fde74c-66ced6
+
+fbba72
+ca5310
+bb4d00
+691e06
+9993b2
+a7abdd
+b4d4ee
+0a369d
+558b6e
+1AC8ED
+*/
+
+main {
+  background-color: white;
+  color: black;
+}
+
+header {
+  background-color: #1e2019;
+  color: #fde74c;
+}

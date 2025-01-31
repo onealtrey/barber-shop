@@ -1,0 +1,11 @@
+.redBackground {
+  background-color: #8f250c;
+  color: #ffffff;
+}
+
+.bookNow {
+  background-color: #66ced6;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
